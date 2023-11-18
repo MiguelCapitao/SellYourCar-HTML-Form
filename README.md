@@ -10,3 +10,5 @@ This project was developed as an initiative to explore and expand my knowledge o
 ## Resources Used
 -Official HTML documentation.<br>
 -Online tutorials and articles related to HTML and CSS form development.
+
+![Web Photo](README/SellYourCarForm.png)
